@@ -1,0 +1,26 @@
+.cover {
+    max-width: 1184px;
+    margin: 0 auto;
+    background-image: url(/images/__background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media screen (max-width: 1279px) {
+    .cover {
+        max-width: 100%;
+    }
+   
+}
+
+@media screen and (min-width: 321px) and (max-width: 768px)  {
+   .cover {
+    max-width: 100%;
+   }
+}
+
+@media screen and (max-width: 320px) {
+   .cover {
+    max-width: 100%;
+   }
+}
