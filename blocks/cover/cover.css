@@ -1,5 +1,6 @@
 .cover {
     max-width: 1184px;
+    min-height: 740px;
     margin: 0 auto;
     background-image: url(../../images/__background.png);
     background-repeat: no-repeat;
