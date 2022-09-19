@@ -24,6 +24,7 @@
         max-width: 186px;
         min-height: 310px;
         flex-direction: column;
+        margin-left: 18px;
     }
     
 }
