@@ -1,8 +1,7 @@
 .header__lang {
     max-width: 77px;
     display: flex;
-    align-items: flex-end;
-    justify-content: center;
+    align-items: center;
     margin: 0;
     padding: 0;
     gap: 18px;
